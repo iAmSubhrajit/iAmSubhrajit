@@ -15,20 +15,24 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 
 
-<h1 align="center">:round_pushpin: Profile visitors</h1>
+<h1>Profile visitors:- <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg"></h1>
 <div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg">
+    
 </div>
 <br>
 <br>
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit />
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <h2 align="center">GitHub Profile Trophy</h2>
+</p>
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" >
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAmSubhrajit&show_icons=true&locale=en&layout=compact" alt="iAmSubhrajit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iAmSubhrajit&show_icons=true&locale=en" alt="iAmSubhrajit" /></p>
 <br/>
-<h1 align="center">🔥 Streak Stats</h1>
+<h1 >🔥 Streak Stats</h1>
 <p align="center">
   <a href="https://github.com/iAmSubhrajit/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iAmSubhrajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iAMSubhrajit.&theme=monokai-metallian&hide_border=true"/>

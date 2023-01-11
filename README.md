@@ -14,10 +14,23 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 <h1 align="center">:round_pushpin: Profile visitors</h1>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg">
 </div>
 <br>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit" alt="iAmSubhrajit" /></a> </p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAmSubhrajit&show_icons=true&locale=en&layout=compact" alt="iAmSubhrajit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iAmSubhrajit&show_icons=true&locale=en" alt="iAmSubhrajit" /></p>
+<br/>
+<h1 align="center">🔥 Streak Stats</h1>
+<p align="center">
+  <a href="https://github.com/iAmSubhrajit/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iAmSubhrajit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iAMSubhrajit.&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>

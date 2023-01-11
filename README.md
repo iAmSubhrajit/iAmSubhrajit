@@ -15,9 +15,9 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ...
 
 
-<h1>Profile visitors:- <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg"></h1>
+<h1 align="center">Profile Visitors</h1>
 <div align="center">
-    
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg">
 </div>
 <br>
 <br>

@@ -1,9 +1,9 @@
 ![hello](hello.svg)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Subhrajit Das</h1>
-<!--
-**iAmSubhrajit/iAmSubhrajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **iAmSubhrajit/iAmSubhrajit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<h1 align="center">:round_pushpin: Profile visitors</h1>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/iAmSubhrajit/count.svg">
+</div>
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit" alt="iAmSubhrajit" /></a> </p>

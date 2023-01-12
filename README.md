@@ -29,9 +29,9 @@ Here are some ideas to get you started: -->
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=iAmSubhrajit&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" >
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAmSubhrajit&show_icons=true&locale=en&layout=compact" alt="iAmSubhrajit" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iAmSubhrajit&show_icons=true&locale=en&layout=compact" alt="iAmSubhrajit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iAmSubhrajit&show_icons=true&locale=en" alt="iAmSubhrajit" /></p>
-<br/>
+<br/> -->
 <h1 >🔥 Streak Stats</h1>
 <p align="center">
   <a href="https://github.com/iAmSubhrajit/github-readme-streak-stats">
